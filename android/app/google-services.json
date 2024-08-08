@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "789280053299",
+    "project_id": "gc-events-66",
+    "storage_bucket": "gc-events-66.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789280053299:android:a5e83447745da649f26b46",
+        "android_client_info": {
+          "package_name": "gc.events.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ_6jzlqiO5q0rQZXRrQPk04csQxeA7OQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
