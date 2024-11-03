@@ -63,6 +63,7 @@ class DefaultFirebaseOptions {
     messagingSenderId: '789280053299',
     projectId: 'gc-events-66',
     storageBucket: 'gc-events-66.appspot.com',
+    iosClientId: '789280053299-vfjhqjptcl6r7gdh2pmacoiitcsnlbrm.apps.googleusercontent.com',
     iosBundleId: 'com.example.flutterApplication1',
   );
 
@@ -72,6 +73,7 @@ class DefaultFirebaseOptions {
     messagingSenderId: '789280053299',
     projectId: 'gc-events-66',
     storageBucket: 'gc-events-66.appspot.com',
+    iosClientId: '789280053299-vfjhqjptcl6r7gdh2pmacoiitcsnlbrm.apps.googleusercontent.com',
     iosBundleId: 'com.example.flutterApplication1',
   );
 
